@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, BI, Ciência de Dados**
 
-- 👨‍💻 Todos os meus projetos estão no seguinte link: https://github.com/ArthurGSMartins/ArthurGSMartins / https://github.com/ArthurGSMartins/Dashboards
+- 👨‍💻 Todos os meus projetos estão no seguinte link: https://github.com/ArthurGSMartins/ArthurGSMartins
 
 - 📄 Caso queira saber mais sobre mim [https://www.linkedin.com/in/arthur-martins-229723202/](https://www.linkedin.com/in/arthur-martins-229723202/)
 
